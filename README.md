@@ -7,7 +7,7 @@
 3. Run brewfile `brew bundle`
 4. Manual installs
 5. Config apps
-6. OS settings via dotfiles
+6. OS settings via `mac-config.sh`
 
 ## Manual installs
 
