@@ -2,7 +2,7 @@
 
 ## Process
 
-1. [Update OS](https://mac.install.guide/commandlinetools/3)
+1. Update OS
 2. [Homebrew + Xcode CLI](https://mac.install.guide/commandlinetools/3)
 3. Run brewfile `brew bundle`
 4. Manual installs
@@ -12,7 +12,7 @@
 ## Manual installs
 
 - [powerlevel10k](https://www.warp.dev/blog/how-to-set-up-powerlevel10k-on-warp)
-- nvm
+- [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
 - node (via nvm)
 - git desktop
 - harvest
