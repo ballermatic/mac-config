@@ -19,6 +19,11 @@
 - node (via nvm)
 - git desktop
 - harvest
+- photoshop
+- illustrator
+- acrobat
+- indesign
+- after effects
 
 ## Brave
 
