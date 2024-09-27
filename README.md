@@ -4,10 +4,12 @@
 
 1. Update OS
 2. [Homebrew + Xcode CLI](https://mac.install.guide/commandlinetools/3)
-3. Run brewfile `brew bundle`
-4. Manual installs
-5. Config apps
-6. OS settings via `mac-config.sh`
+3. 1password
+4. Git
+5. Run brewfile `brew bundle`
+6. Manual installs
+7. Config apps
+8. OS settings via `mac-config.sh`
 
 ## Manual installs
 
