@@ -176,6 +176,10 @@ defaults -currentHost write com.apple.ImageCapture disableHotPlug -bool true
 
 defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false
 
+# Disable “natural” (Lion-style) scrolling
+
+defaults write NSGlobalDomain com.apple.swipescrolldirection -bool false
+
 # Restart dock
 
 killall Dock
