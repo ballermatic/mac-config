@@ -20,10 +20,14 @@
 - git desktop
 - harvest
 
-## Brave extensions
+## Brave
+
+### extensions
 
 - 1password
 - cookie editor
 - JSON viewer
 - quick source viewer
 - react developer tools
+
+### and bookmarks
