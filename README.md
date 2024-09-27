@@ -8,8 +8,9 @@
 4. Git
 5. Run brewfile
 6. Manual installs
-7. Config apps
-8. OS settings via `mac-config.sh`
+7. Delete pre-installed Apple apps as desired - also remove their entries in Library and Application Support
+8. Config apps
+9. OS settings via `mac-config.sh`
 
 ## Manual installs
 
