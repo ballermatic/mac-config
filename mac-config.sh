@@ -102,11 +102,11 @@ defaults write com.apple.finder FXDefaultSearchScope -string "SCcf"
 defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true
 defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true
 
-# Use list view in all Finder windows by default
+# Use column view in all Finder windows by default
 
-# Four-letter codes for the other view modes: `icnv`, `clmv`, `glyv`
+# Four-letter codes for the other view modes: `icnv`, `clmv`, `glyv`, `nlsv`
 
-defaults write com.apple.finder FXPreferredViewStyle -string "Nlsv"
+defaults write com.apple.finder FXPreferredViewStyle -string "clmv"
 
 # Expand the following File Info panes:
 
