@@ -6,7 +6,7 @@
 2. [Homebrew + Xcode CLI](https://mac.install.guide/commandlinetools/3)
 3. 1password
 4. Git
-5. Run brewfile `brew bundle`
+5. Run brewfile
 6. Manual installs
 7. Config apps
 8. OS settings via `mac-config.sh`
