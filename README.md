@@ -17,13 +17,7 @@
 - [powerlevel10k](https://www.warp.dev/blog/how-to-set-up-powerlevel10k-on-warp)
 - [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating)
 - node (via nvm)
-- git desktop
-- harvest
-- photoshop
-- illustrator
-- acrobat
-- indesign
-- after effects
+- adobe apps as needed
 
 ## Brave
 
