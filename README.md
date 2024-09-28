@@ -11,6 +11,7 @@
 7. Delete pre-installed Apple apps as desired - also remove their entries in Library and Application Support
 8. Config apps
 9. OS settings via `mac-config.sh`
+10. Tweak OS what wasnt deat with already
 
 ## Manual installs
 
