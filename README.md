@@ -31,8 +31,7 @@
 
 - 1password
 - cookie editor
-- JSON viewer
-- quick source viewer
+- JSON formatter
 - react developer tools
 
 ### and bookmarks
