@@ -5,7 +5,7 @@ cask "cloudflare-warp"
 cask "brave-browser"
 cask "1password"
 cask "github"
-cask "visual-studio-code"
+cask "cursor"
 brew "pnpm"
 brew "yarn"
 cask "sync"
@@ -18,9 +18,8 @@ cask "discord"
 cask "spotify"
 cask "zoom"
 
-# Fonts
+# Fonts - plenty more belong here
 cask "font-inter"
-cask "font-libre-franklin"
 cask "font-meslo-for-powerlevel10k"
 
 # Install VS Code extensions
